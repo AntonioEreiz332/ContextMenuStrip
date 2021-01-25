@@ -1,0 +1,10 @@
+C:\Users\toni-PC\source\repos\contextmenustrip zad5\contextmenustrip zad5\bin\Debug\contextmenustrip zad5.exe.config
+C:\Users\toni-PC\source\repos\contextmenustrip zad5\contextmenustrip zad5\bin\Debug\contextmenustrip zad5.exe
+C:\Users\toni-PC\source\repos\contextmenustrip zad5\contextmenustrip zad5\bin\Debug\contextmenustrip zad5.pdb
+C:\Users\toni-PC\source\repos\contextmenustrip zad5\contextmenustrip zad5\obj\Debug\contextmenustrip zad5.csprojAssemblyReference.cache
+C:\Users\toni-PC\source\repos\contextmenustrip zad5\contextmenustrip zad5\obj\Debug\contextmenustrip_zad5.Form1.resources
+C:\Users\toni-PC\source\repos\contextmenustrip zad5\contextmenustrip zad5\obj\Debug\contextmenustrip_zad5.Properties.Resources.resources
+C:\Users\toni-PC\source\repos\contextmenustrip zad5\contextmenustrip zad5\obj\Debug\contextmenustrip zad5.csproj.GenerateResource.cache
+C:\Users\toni-PC\source\repos\contextmenustrip zad5\contextmenustrip zad5\obj\Debug\contextmenustrip zad5.csproj.CoreCompileInputs.cache
+C:\Users\toni-PC\source\repos\contextmenustrip zad5\contextmenustrip zad5\obj\Debug\contextmenustrip zad5.exe
+C:\Users\toni-PC\source\repos\contextmenustrip zad5\contextmenustrip zad5\obj\Debug\contextmenustrip zad5.pdb
